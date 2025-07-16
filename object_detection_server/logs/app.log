@@ -1,0 +1,621 @@
+2025-07-16 12:05:14,346 - __main__ - INFO - YOLOv8 model loaded successfully
+2025-07-16 12:05:14,397 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.69:5000
+2025-07-16 12:05:14,397 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 12:05:14,403 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 12:05:16,409 - __main__ - INFO - YOLOv8 model loaded successfully
+2025-07-16 12:05:16,414 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 12:05:16,417 - werkzeug - INFO -  * Debugger PIN: 254-711-505
+2025-07-16 12:05:36,383 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 12:05:36] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-16 12:05:36,593 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 12:05:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-16 12:57:09,319 - __main__ - INFO - YOLOv8 model loaded successfully
+2025-07-16 12:57:09,360 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.69:5000
+2025-07-16 12:57:09,361 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 12:57:09,362 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 12:57:11,688 - __main__ - INFO - YOLOv8 model loaded successfully
+2025-07-16 12:57:11,693 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 12:57:11,699 - werkzeug - INFO -  * Debugger PIN: 254-711-505
+2025-07-16 12:57:15,779 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 12:57:15] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-16 13:02:17,578 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 13:02:17] "[31m[1mGET /detect HTTP/1.1[0m" 405 -
+2025-07-16 13:06:06,290 - werkzeug - INFO -  * Detected change in 'D:\\Developer Profile\\object_detection_project\\object_detection_server\\app.py', reloading
+2025-07-16 13:06:06,978 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 13:06:10,880 - __main__ - INFO - YOLOv8 model loaded successfully
+2025-07-16 13:06:10,891 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 13:06:10,899 - werkzeug - INFO -  * Debugger PIN: 254-711-505
+2025-07-16 13:07:20,025 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 13:07:20] "GET / HTTP/1.1" 200 -
+2025-07-16 13:07:34,237 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 13:07:34] "[31m[1mGET /detect HTTP/1.1[0m" 405 -
+2025-07-16 13:09:56,291 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 13:09:56] "GET / HTTP/1.1" 200 -
+2025-07-16 13:09:57,081 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 13:09:57] "GET / HTTP/1.1" 200 -
+2025-07-16 13:09:57,423 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 13:09:57] "GET / HTTP/1.1" 200 -
+2025-07-16 13:09:57,653 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 13:09:57] "GET / HTTP/1.1" 200 -
+2025-07-16 13:09:57,885 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 13:09:57] "GET / HTTP/1.1" 200 -
+2025-07-16 13:09:58,126 - werkzeug - INFO - 127.0.0.1 - - [16/Jul/2025 13:09:58] "GET / HTTP/1.1" 200 -
+2025-07-16 13:12:29,479 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 13:12:29] "GET / HTTP/1.1" 200 -
+2025-07-16 13:12:29,656 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 13:12:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-16 13:23:16,191 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 13:23:16] "GET / HTTP/1.1" 200 -
+2025-07-16 13:23:16,687 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 13:23:16] "GET / HTTP/1.1" 200 -
+2025-07-16 13:23:16,917 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 13:23:16] "GET / HTTP/1.1" 200 -
+2025-07-16 13:23:17,166 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 13:23:17] "GET / HTTP/1.1" 200 -
+2025-07-16 13:31:23,738 - __main__ - INFO - YOLOv8 model loaded successfully
+2025-07-16 13:31:23,770 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.69:5000
+2025-07-16 13:31:23,771 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 13:31:23,773 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 13:31:26,869 - __main__ - INFO - YOLOv8 model loaded successfully
+2025-07-16 13:31:26,883 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 13:31:26,892 - werkzeug - INFO -  * Debugger PIN: 254-711-505
+2025-07-16 13:31:32,394 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 13:31:32] "GET / HTTP/1.1" 200 -
+2025-07-16 13:47:09,954 - werkzeug - INFO -  * Detected change in 'D:\\Developer Profile\\object_detection_project\\object_detection_server\\app.py', reloading
+2025-07-16 13:47:11,423 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 13:47:15,494 - __main__ - INFO - YOLOv8 model loaded successfully
+2025-07-16 13:47:15,509 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 13:47:15,513 - werkzeug - INFO -  * Debugger PIN: 254-711-505
+2025-07-16 14:53:51,459 - __main__ - INFO - YOLOv8 model loaded successfully
+2025-07-16 14:53:51,510 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.69:5000
+2025-07-16 14:53:51,511 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 14:53:51,513 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 14:53:53,866 - __main__ - INFO - YOLOv8 model loaded successfully
+2025-07-16 14:53:53,873 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 14:53:53,878 - werkzeug - INFO -  * Debugger PIN: 254-711-505
+2025-07-16 14:54:00,448 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 14:54:00] "GET / HTTP/1.1" 200 -
+2025-07-16 14:54:51,726 - __main__ - INFO - Detected 6 objects
+2025-07-16 14:54:51,729 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 14:54:51] "POST /detect HTTP/1.1" 200 -
+2025-07-16 14:54:52,092 - __main__ - INFO - Detected 6 objects
+2025-07-16 14:54:52,094 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 14:54:52] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:18:04,247 - __main__ - INFO - Detected 6 objects
+2025-07-16 15:18:04,260 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:18:04] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:44:17,206 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:44:17,219 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:44:17] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:44:19,970 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:44:19,971 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:44:19] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:44:22,691 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:44:22,692 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:44:22] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:44:25,509 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:44:25,510 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:44:25] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:44:28,301 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:44:28,302 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:44:28] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:44:31,123 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:44:31,125 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:44:31] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:44:33,822 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:44:33,823 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:44:33] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:44:36,546 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:44:36,547 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:44:36] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:44:39,200 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:44:39,201 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:44:39] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:44:41,667 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:44:41,667 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:44:41] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:44:44,214 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:44:44,214 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:44:44] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:44:46,958 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:44:46,959 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:44:46] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:44:49,715 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:44:49,716 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:44:49] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:44:52,887 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:44:52,888 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:44:52] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:44:55,462 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:44:55,463 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:44:55] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:44:58,066 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:44:58,067 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:44:58] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:00,585 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:00,586 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:00] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:03,052 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:03,053 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:03] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:05,588 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:05,588 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:05] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:08,114 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:08,115 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:08] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:10,554 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:10,554 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:10] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:13,009 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:13,009 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:13] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:15,517 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:15,517 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:15] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:18,015 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:18,016 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:18] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:20,477 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:20,477 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:20] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:22,964 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:22,964 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:22] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:25,560 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:25,561 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:25] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:28,083 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:28,084 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:28] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:30,603 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:30,603 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:30] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:33,100 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:33,101 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:33] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:35,589 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:35,590 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:35] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:38,122 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:38,123 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:38] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:40,668 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:40,668 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:40] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:43,201 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:43,203 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:43] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:45,681 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:45,681 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:45] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:48,240 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:48,240 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:48] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:50,758 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:50,759 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:50] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:53,373 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:53,375 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:53] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:55,938 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:55,939 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:55] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:45:58,472 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:45:58,472 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:45:58] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:46:00,998 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:46:00,998 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:46:00] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:46:03,553 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:46:03,553 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:46:03] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:46:06,518 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:46:06,519 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:46:06] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:46:07,370 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:46:07] "[31m[1mGET /detect HTTP/1.1[0m" 405 -
+2025-07-16 15:46:10,552 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:46:10,553 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:46:10] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:46:13,312 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:46:13,313 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:46:13] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:46:15,962 - __main__ - INFO - Detected 0 objects
+2025-07-16 15:46:15,963 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:46:15] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:48:40,616 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.69:5000
+2025-07-16 15:48:40,617 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 15:48:40,626 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 15:48:44,632 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 15:48:44,640 - werkzeug - INFO -  * Debugger PIN: 254-711-505
+2025-07-16 15:49:06,686 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:06] "GET / HTTP/1.1" 200 -
+2025-07-16 15:49:07,404 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:07] "GET / HTTP/1.1" 200 -
+2025-07-16 15:49:07,640 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:07] "GET / HTTP/1.1" 200 -
+2025-07-16 15:49:07,835 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:07] "GET / HTTP/1.1" 200 -
+2025-07-16 15:49:08,013 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:08] "GET / HTTP/1.1" 200 -
+2025-07-16 15:49:08,244 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:08] "GET / HTTP/1.1" 200 -
+2025-07-16 15:49:09,289 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:09] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:49:11,953 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:11] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:49:14,431 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:14] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:49:16,929 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:16] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:49:28,309 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:28] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:49:30,825 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:30] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:49:33,419 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:33] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:49:35,993 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:35] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:49:38,552 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:38] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:49:40,997 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:40] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:49:43,432 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:43] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:49:45,927 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:45] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:49:48,468 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:48] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:49:51,098 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:51] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:49:53,568 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:53] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:49:56,036 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:56] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:49:58,545 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:49:58] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:01,076 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:01] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:03,517 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:03] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:05,951 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:05] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:08,426 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:08] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:11,370 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:11] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:14,058 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:14] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:17,921 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:17] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:21,677 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:21] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:25,440 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:25] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:29,422 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:29] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:33,214 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:33] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:37,054 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:37] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:39,869 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:39] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:42,588 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:42] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:45,239 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:45] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:47,912 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:47] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:50,753 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:50] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:53,413 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:53] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:56,083 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:56] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:50:58,722 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:50:58] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:01,372 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:01] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:04,020 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:04] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:06,677 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:06] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:09,332 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:09] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:11,992 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:11] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:14,649 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:14] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:17,319 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:17] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:19,993 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:19] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:22,633 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:22] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:25,292 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:25] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:28,031 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:28] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:30,684 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:30] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:33,361 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:33] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:36,847 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:36] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:39,542 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:39] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:42,228 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:42] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:44,957 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:44] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:47,640 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:47] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:50,367 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:50] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:53,053 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:53] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:55,743 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:55] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:51:58,415 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:51:58] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:01,083 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:01] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:03,978 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:03] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:06,663 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:06] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:09,334 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:09] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:12,002 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:12] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:14,683 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:14] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:17,343 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:17] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:20,004 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:20] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:22,664 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:22] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:25,346 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:25] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:28,002 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:28] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:30,648 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:30] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:33,469 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:33] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:36,124 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:36] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:38,814 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:38] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:41,507 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:41] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:44,233 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:44] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:46,934 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:46] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:49,630 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:49] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:52,454 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:52] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:55,135 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:55] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:52:57,812 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:52:57] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:00,482 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:00] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:03,146 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:03] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:05,780 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:05] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:08,434 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:08] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:11,256 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:11] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:14,830 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:14] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:18,711 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:18] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:21,400 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:21] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:24,067 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:24] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:26,741 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:26] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:29,394 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:29] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:32,045 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:32] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:34,715 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:34] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:37,367 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:37] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:40,032 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:40] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:42,677 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:42] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:45,366 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:45] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:48,045 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:48] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:50,713 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:50] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:53,594 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:53] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:56,264 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:56] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:53:58,935 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:53:58] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:01,596 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:54:01] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:04,321 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:54:04] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:06,986 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:54:06] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:09,658 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:54:09] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:12,348 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:54:12] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:15,002 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:54:15] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:17,684 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:54:17] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:20,412 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:54:20] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:23,152 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:54:23] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:27,038 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:54:27] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:31,045 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:54:31] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:35,155 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:54:35] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:37,615 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:54:37] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:40,051 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:54:40] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:42,543 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:54:42] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:45,002 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:54:45] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:47,435 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:54:47] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:49,864 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:54:49] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:52,548 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:54:52] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:54:54,818 - werkzeug - INFO -  * Detected change in 'D:\\Developer Profile\\object_detection_project\\object_detection_server\\app.py', reloading
+2025-07-16 15:54:59,958 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 15:55:08,930 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 15:55:08,947 - werkzeug - INFO -  * Debugger PIN: 254-711-505
+2025-07-16 15:55:16,327 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:55:16,328 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:55:16] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:55:18,810 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:55:18,811 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:55:18] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:55:21,323 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:55:21,324 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:55:21] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:55:23,723 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:55:23,724 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:55:23] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:55:26,165 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:55:26,165 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:55:26] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:55:28,631 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:55:28,631 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:55:28] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:55:31,064 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:55:31,065 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:55:31] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:55:33,508 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:55:33,509 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:55:33] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:55:35,960 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:55:35,961 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:55:35] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:55:38,469 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:55:38,469 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:55:38] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:55:40,927 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:55:40,928 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:55:40] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:55:43,404 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:55:43,405 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:55:43] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:55:45,873 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:55:45,873 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:55:45] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:55:48,533 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:55:48,533 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:55:48] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:55:49,573 - werkzeug - INFO -  * Detected change in 'D:\\Developer Profile\\object_detection_project\\object_detection_server\\app.py', reloading
+2025-07-16 15:55:50,753 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 15:55:55,156 - __main__ - INFO - ✅ YOLOv8 model loaded successfully
+2025-07-16 15:55:55,172 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 15:55:55,183 - werkzeug - INFO -  * Debugger PIN: 254-711-505
+2025-07-16 15:55:58,149 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:55:58,150 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:55:58] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:55:58,742 - werkzeug - INFO -  * Detected change in 'D:\\Developer Profile\\object_detection_project\\object_detection_server\\app.py', reloading
+2025-07-16 15:55:59,739 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 15:56:03,601 - __main__ - INFO - ✅ YOLOv8 model loaded successfully
+2025-07-16 15:56:03,615 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 15:56:03,625 - werkzeug - INFO -  * Debugger PIN: 254-711-505
+2025-07-16 15:56:06,537 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:56:06,539 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:56:06] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:57:11,157 - __main__ - INFO - ✅ YOLOv8 model loaded successfully
+2025-07-16 15:57:11,221 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.69:5000
+2025-07-16 15:57:11,221 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 15:57:11,224 - werkzeug - INFO -  * Restarting with stat
+2025-07-16 15:57:14,945 - __main__ - INFO - ✅ YOLOv8 model loaded successfully
+2025-07-16 15:57:14,953 - werkzeug - WARNING -  * Debugger is active!
+2025-07-16 15:57:14,958 - werkzeug - INFO -  * Debugger PIN: 254-711-505
+2025-07-16 15:57:17,780 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:57:17,781 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:57:17] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:57:20,189 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:57:20,190 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:57:20] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:57:22,630 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:57:22,630 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:57:22] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:57:25,051 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:57:25,051 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:57:25] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:57:27,463 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:57:27,463 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:57:27] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:57:29,893 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:57:29,894 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:57:29] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:57:32,332 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:57:32,332 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:57:32] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:57:34,810 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:57:34,810 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:57:34] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:57:37,325 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:57:37,326 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:57:37] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:57:39,758 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:57:39,758 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:57:39] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:57:42,230 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:57:42,230 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:57:42] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:57:44,693 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:57:44,695 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:57:44] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:57:47,102 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:57:47,102 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:57:47] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:57:49,532 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:57:49,532 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:57:49] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:57:52,117 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:57:52,118 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:57:52] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:57:54,550 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:57:54,551 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:57:54] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:57:56,974 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:57:56,975 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:57:56] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:57:59,399 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:57:59,400 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:57:59] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:01,819 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:01,820 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:01] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:04,225 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:04,226 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:04] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:06,709 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:06,709 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:06] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:09,186 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:09,187 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:09] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:11,789 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:11,791 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:11] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:14,481 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:14,482 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:14] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:17,250 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:17,252 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:17] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:20,126 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:20,130 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:20] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:22,979 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:22,981 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:22] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:25,576 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:25,577 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:25] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:28,045 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:28,046 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:28] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:30,491 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:30,491 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:30] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:32,943 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:32,945 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:32] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:35,500 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:35,501 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:35] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:38,104 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:38,104 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:38] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:40,801 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:40,802 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:40] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:43,255 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:43,256 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:43] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:45,915 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:45,916 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:45] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:49,765 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:49,767 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:49] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:54,154 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:54,156 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:54] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:58:58,225 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:58:58,227 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:58:58] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:59:02,171 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:59:02,172 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:59:02] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:59:05,113 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:59:05,115 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:59:05] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:59:07,798 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:59:07,799 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:59:07] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:59:11,311 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:59:11,314 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:59:11] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:59:15,449 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:59:15,450 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:59:15] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:59:19,454 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:59:19,456 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:59:19] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:59:23,293 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:59:23,294 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:59:23] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:59:27,301 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:59:27,302 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:59:27] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:59:31,284 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:59:31,286 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:59:31] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:59:35,153 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:59:35,154 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:59:35] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:59:39,139 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:59:39,140 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:59:39] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:59:43,009 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:59:43,011 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:59:43] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:59:45,650 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:59:45,651 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:59:45] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:59:48,395 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:59:48,396 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:59:48] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:59:51,106 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:59:51,107 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:59:51] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:59:53,828 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:59:53,830 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:59:53] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:59:56,671 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:59:56,674 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:59:56] "POST /detect HTTP/1.1" 200 -
+2025-07-16 15:59:59,352 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 15:59:59,353 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 15:59:59] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:00:02,690 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:00:02,693 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:00:02] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:00:06,609 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:00:06,611 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:00:06] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:00:10,710 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:00:10,712 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:00:10] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:00:13,249 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:00:13,251 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:00:13] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:00:15,712 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:00:15,713 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:00:15] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:00:18,304 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:00:18,305 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:00:18] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:00:20,760 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:00:20,761 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:00:20] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:00:23,796 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:00:23,801 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:00:23] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:00:31,296 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:00:31,297 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:00:31] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:00:34,126 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:00:34,128 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:00:34] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:00:38,555 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:00:38,557 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:00:38] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:00:41,004 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:00:41,004 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:00:41] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:00:43,436 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:00:43,437 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:00:43] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:00:45,869 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:00:45,869 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:00:45] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:00:48,294 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:00:48,295 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:00:48] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:00:50,732 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:00:50,733 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:00:50] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:00:53,178 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:00:53,179 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:00:53] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:00:55,611 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:00:55,612 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:00:55] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:00:58,307 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:00:58,308 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:00:58] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:01:00,749 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:01:00,750 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:01:00] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:01:03,175 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:01:03,175 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:01:03] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:01:05,853 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:01:05,854 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:01:05] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:01:08,291 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:01:08,291 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:01:08] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:01:10,726 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:01:10,726 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:01:10] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:01:13,297 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:01:13,298 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:01:13] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:01:15,805 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:01:15,805 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:01:15] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:01:18,315 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:01:18,315 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:01:18] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:01:20,874 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:01:20,875 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:01:20] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:01:23,326 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:01:23,327 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:01:23] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:07:41,764 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:07:41,777 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:07:41] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:07:44,548 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:07:44,549 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:07:44] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:07:47,414 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:07:47,416 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:07:47] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:07:50,333 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:07:50,335 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:07:50] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:07:53,090 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:07:53,091 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:07:53] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:07:55,939 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:07:55,940 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:07:55] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:07:58,585 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:07:58,586 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:07:58] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:01,255 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:08:01,256 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:01] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:04,160 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:08:04,162 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:04] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:06,840 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:08:06,841 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:06] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:09,272 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:08:09,272 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:09] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:11,709 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:08:11,710 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:11] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:14,176 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:08:14,177 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:14] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:16,601 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:08:16,602 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:16] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:19,021 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:08:19,022 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:19] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:21,447 - __main__ - INFO - Detected 2 object(s)
+2025-07-16 16:08:21,448 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:21] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:23,899 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:08:23,899 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:23] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:26,379 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:08:26,380 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:26] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:28,831 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:08:28,832 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:28] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:31,291 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:08:31,291 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:31] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:33,738 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:08:33,739 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:33] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:36,168 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:08:36,169 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:36] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:38,624 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:08:38,625 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:38] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:41,058 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:08:41,059 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:41] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:43,508 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:08:43,511 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:43] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:45,948 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:08:45,948 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:45] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:48,402 - __main__ - INFO - Detected 2 object(s)
+2025-07-16 16:08:48,403 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:48] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:50,895 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:08:50,895 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:50] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:53,347 - __main__ - INFO - Detected 0 object(s)
+2025-07-16 16:08:53,347 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:53] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:55,778 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:08:55,779 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:55] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:08:58,222 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:08:58,222 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:08:58] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:09:00,666 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:09:00,666 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:09:00] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:09:03,117 - __main__ - INFO - Detected 2 object(s)
+2025-07-16 16:09:03,118 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:09:03] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:09:05,553 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:09:05,554 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:09:05] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:09:08,011 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:09:08,012 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:09:08] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:09:10,440 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:09:10,441 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:09:10] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:09:12,884 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:09:12,885 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:09:12] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:09:15,415 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:09:15,416 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:09:15] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:09:17,849 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:09:17,850 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:09:17] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:09:20,310 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:09:20,310 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:09:20] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:09:22,762 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:09:22,762 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:09:22] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:09:25,258 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:09:25,258 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:09:25] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:09:27,745 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:09:27,747 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:09:27] "POST /detect HTTP/1.1" 200 -
+2025-07-16 16:09:30,381 - __main__ - INFO - Detected 1 object(s)
+2025-07-16 16:09:30,382 - werkzeug - INFO - 192.168.1.69 - - [16/Jul/2025 16:09:30] "POST /detect HTTP/1.1" 200 -
